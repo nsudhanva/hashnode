@@ -1,4 +1,4 @@
-## Install TensorFlow on Apple M1 (M1, Pro, Max) with GPU (Metal)
+## Install TensorFlow on Apple M2 (M1, Pro, Max) with GPU (Metal)
 
 **Note:** Uninstall Anaconda/Anaconda Navigator and other related previously installed version of conda-based installations. Anaconda and Miniforge cannot co-exist together.
 
