@@ -111,7 +111,7 @@ Inspiring Resumes to Look For
 
 *   [Jessica Pointing](https://www.businessinsider.in/See-the-resume-that-helped-a-college-student-land-internship-offers-from-Google-Facebook-Apple-and-Goldman-Sachs/articleshow/56899122.cms)
 *   [Gayle Laakmann McDowell](https://www.careercup.com/resume)
-*   [Stanford BEAM](https://beam.stanford.edu/sites/g/files/sbiybj10361/f/resume_and_cover_letter_examples.pdf)
+*   [Stanford BEAM](https://www.gsb.stanford.edu/alumni/career-resources/job-search/resumes)
 
 We can only wish that more organisations looked beyond the resume but also wish that more people looked beyond their resume.
 
