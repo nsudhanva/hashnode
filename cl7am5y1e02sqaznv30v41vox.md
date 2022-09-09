@@ -2,7 +2,7 @@
 
 Before we get started, we want to make it clear that everything we cover in this document is just a guideline. There's no exact science when it comes down to what a company is looking for in a resume.
 
-Writing Résumé/CV is a key task in helping you find a job. Think of 'résumé' in the perspective of a recruiter/company. They get hundreds of job applications everyday and barely have time to go through them all. Your résumé should provide them the exact information they need.  It's all the more important that you put your best foot forward with that resume, and this document will help to keep things simple.
+Writing Résumé/CV is a key task in helping you find a job. Think of 'résumé' from the perspective of a recruiter/company. They get hundreds of job applications every day and barely have time to go through them all. Your résumé should provide them with the exact information they need.  It's more important that you put your best foot forward with that resume, and this document will help to keep things simple.
 
 > Don't be a prisoner of your résumé. You wrote it to describe your past, not your future
 
@@ -66,7 +66,7 @@ Format
 *   Education should always be listed first under your contact information.
 *   Work experience includes internships or jobs and any other experience.
 *   You can list personal projects, academy projects or class projects.
-*   You can list awards or a leadership experience.
+*   You can list awards or leadership experience.
 *   And don't forget extracurriculars. The companies want to learn more about you.
 
 Education
@@ -89,13 +89,13 @@ Experience
 Projects
 --------
 
-*   Spend more time on this section especially if you don't have much work experience.
+*   Spend more time on this section, especially if you don't have much work experience.
 *   It is important to list your **GitHub** profile at the top of your resume and to include your programming languages.
 *   GitHub or other prominent open-source work shows us that you're contributing to the open-source community and that you're passionate about the work that you're doing and looking to improve your skills.
 *   They also look at the **programming languages** you are using. Also make sure you're comfortable interviewing in the languages you listed and include any language you use in any specific project descriptions on your resume.
 *   **Include the languages or frameworks used next to your projects**. Also make sure to show your impact.
 *   Use **action-oriented** language as well. Words like debug, created, and designed are great. **Here's a hint: read the job description and look at the language that it uses. Write the resume for the job description.**
-*   Use data and examples as well as things like `"adding new feature, algorithmic improvements, caching data on local storage, implemented data analytics".` Use comparisons and averages to provide context as well.
+*   Use data and examples as well as things like `"adding new features, algorithmic improvements, caching data on local storage, implemented data analytics".` Use comparisons and averages to provide context as well.
 
 Extra
 -----
@@ -113,8 +113,4 @@ Inspiring Resumes to Look For
 *   [Gayle Laakmann McDowell](https://www.careercup.com/resume)
 *   [Stanford BEAM](https://www.gsb.stanford.edu/alumni/career-resources/job-search/resumes)
 
-We can only wish that more organisations looked beyond the resume but also wish that more people looked beyond their resume.
-
-[Browse all issues](https://sudhanva-narayana.ghost.io/page/2)
-
-[Next issue](https://sudhanva-narayana.ghost.io/machine-learning-best-practices-for-your-company/)
+We can only wish that more organizations looked beyond the resume but also wish that more people looked beyond their resume.
