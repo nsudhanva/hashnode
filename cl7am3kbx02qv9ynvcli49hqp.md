@@ -88,9 +88,3 @@ Credits
 -------
 
 *   [Nachiket Sirsikar](https://www.linkedin.com/in/nachiketsirsikar/)
-
-[Previous issue](https://sudhanva-narayana.ghost.io/install-kubeflow-on-digital-ocean-machine-learning/)
-
-[Browse all issues](https://sudhanva-narayana.ghost.io/page/2)
-
-[Next issue](https://sudhanva-narayana.ghost.io/install-pytorch-on-apple-m1-m1-pro-max-gpu/)
