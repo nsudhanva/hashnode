@@ -38,7 +38,3 @@ Credits
 -------
 
 *   [Nachiket Sirsikar](https://www.linkedin.com/in/nachiketsirsikar/)
-
-[Previous issue](https://sudhanva-narayana.ghost.io/install-tensorflow-on-apple-m1-pro-max/)
-
-[Browse all issues](https://sudhanva-narayana.ghost.io/page/2)
