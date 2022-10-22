@@ -1,7 +1,5 @@
 # The Struggle With AI Generated Art
 
-### AI is creating artworks, stealing artists' work and there is nothing they can do about it
-
 **A new trend** has been on the rise where ordinary people have been using AI tools to “generate” artwork. An AI art generator is a tool that can generate or create artwork or an image by taking a couple of words or a sentence as input. Among these tools, the most popular ones are named **Dall-E** by Open AI and **Stable Diffusion** by Stability AI. These tools use state-of-the-art neural networks, popularly known as GANs (generative adversarial networks). It’s a collection of two systems, where one learns from a dataset of images by recognizing a similar pattern and memorizing it and the other will try to reproduce the learned pattern and create images based on a provided description. A sample input description would be *“An image of an astronaut eating cereal on Mars”*. 
 
 
