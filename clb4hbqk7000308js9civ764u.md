@@ -1,4 +1,4 @@
-# Should We Allow Students to Use GPT-3 For Their Assignment?
+# Should We Allow Students to Use GPT-3 For Their Assignments?
 
 A generative AI language model is a deep learning-based tool used to generate human-like text, usually using the initial text as a prompt. These systems are also known as universal language models. The most popular one among these tools is called GPT-3 or Generative Pretrained Transformer 3. It uses a state-of-the-art neural network, popularly known as transformers. These can be considered a probabilistic model that predicts the next word in a sentence given the words that precede it. 
 
