@@ -1,4 +1,4 @@
-## Install PyTorch on Apple M2 (M1, Pro, Max) with GPU
+# Install PyTorch on Apple M2 (M1, Pro, Max) with GPU
 
 Note:
 -----
