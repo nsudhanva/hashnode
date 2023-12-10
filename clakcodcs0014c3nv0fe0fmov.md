@@ -1,4 +1,12 @@
-# Challenges With Crowdsourcing Platforms
+---
+title: "Challenges With Crowdsourcing Platforms"
+datePublished: Thu Nov 17 2022 00:44:45 GMT+0000 (Coordinated Universal Time)
+cuid: clakcodcs0014c3nv0fe0fmov
+slug: challenges-with-crowdsourcing-platforms
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/ABVE1cyT7hk/upload/v1669863107801/vroSwBCBS.jpeg
+tags: machine-learning, economy, gig, crowdsourcing
+
+---
 
 A crowdsourcing platform is a place where we can find workers who can perform elementary tasks. Often these tasks are trivial and will require a lot of time and patience to be completed by a human. While some parts of the task can be automated, computers are yet to achieve human-level accuracy when it comes to solving certain problems. These platforms can be leveraged to solve such easy-to-solve human problems. These are online-only and often asynchronous. A few examples of such tasks include, but are not limited to image data labeling, translation of text from one language to another, data entry, etc.,
 
