@@ -1,4 +1,13 @@
-## Install JupyterHub on AWS Elastic Kubernetes Service (EKS)
+---
+title: "Install JupyterHub on AWS Elastic Kubernetes Service (EKS)"
+datePublished: Tue Mar 02 2021 04:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl7am8zgb02t8aznvbdb67gr0
+slug: install-jupyterhub-on-aws-elastic-kubernetes-service-eks
+canonical: https://sudhanva-narayana.ghost.io/install-jupyterhub-on-aws-elastic-kubernetes-service-eks/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526347353/lFk-0ZQJs.jpeg
+tags: aws, machine-learning, kubernetes, eks
+
+---
 
 Introduction
 ------------
