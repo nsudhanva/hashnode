@@ -1,4 +1,12 @@
-# The Problem With "Renewable" Products
+---
+title: "The Problem With "Renewable" Products"
+datePublished: Fri Nov 11 2022 15:42:42 GMT+0000 (Coordinated Universal Time)
+cuid: claco417b00yza2nv51815vr1
+slug: the-problem-with-renewable-products
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/WiZOyYqzUss/upload/v1667921472206/JTAkK1V_5.jpeg
+tags: carbon, green
+
+---
 
 We have come across companies selling their “green” or “renewable” products. These are often marketed as products that do not harm the environment or products that harm the environment a bit less. These companies know that building and selling these products can be challenging as the economic costs involved in building and manufacturing these products may not be sustainable for them. Yet, they try to sell the consumers their eco-friendly products. We try to consider the problems related to these products and their long-term impacts.
 
