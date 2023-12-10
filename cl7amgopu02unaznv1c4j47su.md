@@ -1,4 +1,13 @@
-## CoGeoTIFF Research on Space Tech SaaS Platform at Pixxel
+---
+title: "CoGeoTIFF Research on Space Tech SaaS Platform at Pixxel"
+datePublished: Sun Oct 10 2021 19:33:02 GMT+0000 (Coordinated Universal Time)
+cuid: cl7amgopu02unaznv1c4j47su
+slug: cogeotiff-research-on-space-tech-saas-platform-at-pixxel
+canonical: https://sudhanva-narayana.ghost.io/cogeotiff-research-on-space-tech-saas-platform-at-pixxel/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526339231/XO8r2pO1E.jpeg
+tags: aws, space-tech, geotiff, co-geotiff
+
+---
 
 Introduction
 ------------
