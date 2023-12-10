@@ -1,4 +1,13 @@
-## Resume Tips That Will Help You Land Your Software Engineering Job
+---
+title: "Resume Tips That Will Help You Land Your Software Engineering Job"
+datePublished: Mon Jun 15 2020 14:15:08 GMT+0000 (Coordinated Universal Time)
+cuid: cl7am5y1e02sqaznv30v41vox
+slug: resume-tips-that-will-help-you-land-a-job
+canonical: https://sudhanva.me/resume-tips-that-will-help-you-land-a-job
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526355814/M8gV7SbxB.jpeg
+tags: resume, career, cv, resume-templates, resume-writing
+
+---
 
 Before we get started, we want to make it clear that everything we cover in this document is just a guideline. There's no exact science when it comes down to what a company is looking for in a resume.
 
