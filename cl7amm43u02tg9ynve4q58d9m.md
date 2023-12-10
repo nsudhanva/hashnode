@@ -1,4 +1,13 @@
-## Install Kubeflow on Digital Ocean Managed Kubernetes (with Terraform)
+---
+title: "Install Kubeflow on Digital Ocean Managed Kubernetes (with Terraform)"
+datePublished: Wed Dec 01 2021 00:35:28 GMT+0000 (Coordinated Universal Time)
+cuid: cl7amm43u02tg9ynve4q58d9m
+slug: install-kubeflow-on-digital-ocean-machine-learning
+canonical: https://sudhanva-narayana.ghost.io/install-kubeflow-on-digital-ocean-machine-learning/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526329713/nSMzUAvWO.jpeg
+tags: docker, machine-learning, kubernetes, kubeflow
+
+---
 
 Here are the steps to deploy Kubeflow on Digital Ocean Managed Kubernetes for your Machine Learning Workflows. Terraform configuration files can be found here: [https://github.com/nsudhanva/do-k8s-challenge](https://github.com/nsudhanva/do-k8s-challenge)
 
