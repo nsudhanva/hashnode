@@ -1,4 +1,13 @@
-## Analyzing Data For A Food Tech Startup - Swiggy
+---
+title: "Analyzing Data For A Food Tech Startup - Swiggy"
+datePublished: Sun Oct 10 2021 19:43:47 GMT+0000 (Coordinated Universal Time)
+cuid: cl7amrov602u99ynv782z3rag
+slug: analyzing-data-for-a-food-tech-startup-swiggy
+canonical: https://sudhanva-narayana.ghost.io/analyzing-data-for-a-food-tech-startup-swiggy/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526334283/sUJfG5hRB.jpeg
+tags: data-science, foodtech
+
+---
 
 Swiggy Data Science Assessment - LinkedIn, MTV Get a Job
 ========================================================
