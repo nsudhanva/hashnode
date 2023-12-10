@@ -1,4 +1,12 @@
-# Engoodening  Of News
+---
+title: "Engoodening  Of News"
+datePublished: Tue Nov 08 2022 15:26:40 GMT+0000 (Coordinated Universal Time)
+cuid: cla8d7uq4000k08ma2xbc4dtr
+slug: engoodening-of-news
+cover: https://cdn.hashnode.com/res/hashnode/image/unsplash/0aRycsfH57A/upload/v1667920850985/INfqw-I7Qg.jpeg
+tags: ai, news, ethics
+
+---
 
 We read or consume news every day. Be it physical or through our mobile phone via news applications or social media recommendations feed. Something to think about is that we are seeing the content that everyone sees. Or are we seeing what we would like to see?
 
