@@ -1,4 +1,12 @@
-## Machine Learning Best Practices For Your Company
+---
+title: "Machine Learning Best Practices For Your Company"
+datePublished: Sun Jul 12 2020 12:30:00 GMT+0000 (Coordinated Universal Time)
+cuid: cl7am7te402r99ynv7kso78is
+slug: machine-learning-best-practices-for-your-company
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526351374/_inJqokMZ.jpeg
+tags: machine-learning, devops
+
+---
 
 Jul 12, 2020
 
