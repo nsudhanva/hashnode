@@ -1,4 +1,13 @@
-# The Struggle With AI Generated Art
+---
+title: "The Struggle With AI Generated Art"
+datePublished: Sat Oct 22 2022 00:19:05 GMT+0000 (Coordinated Universal Time)
+cuid: cl9j6b87m000109kw4uh0busp
+slug: the-struggle-with-ai-generated-art
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1666630452432/ZPFlaFS-2.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1666399051226/yWQHSN-jC.avif
+tags: artificial-intelligence, machine-learning, art
+
+---
 
 **A new trend** has been on the rise where ordinary people have been using AI tools to “generate” artwork. An AI art generator is a tool that can generate or create artwork or an image by taking a couple of words or a sentence as input. Among these tools, the most popular ones are named **Dall-E** by Open AI and **Stable Diffusion** by Stability AI. These tools use state-of-the-art neural networks, popularly known as GANs (generative adversarial networks). It’s a collection of two systems, where one learns from a dataset of images by recognizing a similar pattern and memorizing it and the other will try to reproduce the learned pattern and create images based on a provided description. A sample input description would be *“An image of an astronaut eating cereal on Mars”*. 
 
