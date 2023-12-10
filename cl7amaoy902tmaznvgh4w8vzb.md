@@ -1,4 +1,13 @@
-# Install PyTorch on Apple M2 (M1, Pro, Max) with GPU
+---
+title: "Install PyTorch on Apple M2 (M1, Pro, Max) with GPU"
+datePublished: Mon May 23 2022 01:36:46 GMT+0000 (Coordinated Universal Time)
+cuid: cl7amaoy902tmaznvgh4w8vzb
+slug: install-pytorch-on-apple-m1-m2-pro-max-gpu
+canonical: https://sudhanva.me/install-pytorch-on-apple-m1-m1-pro-max-gpu/
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526318586/u1o3KaFI2.jpeg
+tags: machine-learning, deep-learning, installation, pytorch
+
+---
 
 Note:
 -----
