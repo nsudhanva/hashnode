@@ -1,4 +1,13 @@
-## Install TensorFlow on Apple M2 (M1, Pro, Max) with GPU (Metal)
+---
+title: "Install TensorFlow on Apple M2 (M1, Pro, Max) with GPU (Metal)"
+datePublished: Tue Dec 21 2021 00:05:23 GMT+0000 (Coordinated Universal Time)
+cuid: cl7am3kbx02qv9ynvcli49hqp
+slug: install-tensorflow-on-apple-m1-m2-pro-max
+canonical: https://sudhanva.me/install-tensorflow-on-apple-m1-pro-max
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1661526325458/McIaCGRcyP.jpeg
+tags: machine-learning, tensorflow, anaconda, apple-m1
+
+---
 
 **Note:** Uninstall Anaconda/Anaconda Navigator and other related previously installed version of conda-based installations. Anaconda and Miniforge cannot co-exist together.
 
