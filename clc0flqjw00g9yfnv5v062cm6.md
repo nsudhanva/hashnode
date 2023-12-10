@@ -1,4 +1,12 @@
-# AI Free Will: The Ethics and Implications of Autonomous Machines
+---
+title: "AI Free Will: The Ethics and Implications of Autonomous Machines"
+datePublished: Fri Dec 23 2022 11:30:42 GMT+0000 (Coordinated Universal Time)
+cuid: clc0flqjw00g9yfnv5v062cm6
+slug: ai-free-will-the-ethics-and-implications-of-autonomous-machines
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1671041584835/0NKid11CU.jpeg
+tags: ai, artificial-intelligence, machine-learning, philosophy, ethics
+
+---
 
 ## **Introduction**
 
